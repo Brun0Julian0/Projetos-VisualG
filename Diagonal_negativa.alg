@@ -1,7 +1,7 @@
 Algoritmo "diagonal_negativos"
 // Disciplina   : Algoritmos e Lógica de Programaç
 // Professor    : Nélio Alves
-// Descrição    : Aqui você descreve o que o programa faz! (função)
+// Descrição    : O programa ira pedir um valor para criação de uma matriz, depois irá retornar a diagonal principal da mesma. E também ira mostrar os números negativos da matriz.
 // Autor(a)     : Bruno Juliano da Silva Corazza
 // Data atual   : 20/05/2026
 Var
